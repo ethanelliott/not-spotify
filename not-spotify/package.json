@@ -1,0 +1,36 @@
+{
+  "name": "not-spotify",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "core-js": "^2.6.5",
+    "localStorage": "^1.0.4",
+    "material-design-icons-iconfont": "^3.0.3",
+    "register-service-worker": "^1.6.2",
+    "roboto-fontface": "*",
+    "sha512": "^0.0.1",
+    "uuid": "^3.3.2",
+    "vue": "^2.6.10",
+    "vue-router": "^3.0.3",
+    "vuetify": "^1.5.5"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.7.0",
+    "@vue/cli-plugin-eslint": "^3.7.0",
+    "@vue/cli-plugin-pwa": "^3.7.0",
+    "@vue/cli-service": "^3.7.0",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.16.0",
+    "eslint-plugin-vue": "^5.0.0",
+    "node-sass": "^4.9.0",
+    "sass-loader": "^7.1.0",
+    "vue-cli-plugin-vuetify": "^0.5.0",
+    "vue-template-compiler": "^2.5.21"
+  }
+}
